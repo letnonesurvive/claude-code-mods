@@ -5,7 +5,7 @@ Personal [Claude Code](https://claude.com/claude-code) mods and the setup around
 ## Install
 
 ```sh
-git clone <repo-url> ~/.claude/mods && ~/.claude/mods/install.sh
+git clone https://github.com/letnonesurvive/claude-code-mods.git ~/.claude/mods && ~/.claude/mods/install.sh
 ```
 
 Open a new terminal afterwards. The script registers every mod of this
